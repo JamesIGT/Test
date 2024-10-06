@@ -1,0 +1,6 @@
+SELECT * From plantilla
+
+-- ORDER BY
+SELECT * FROM plantilla ORDER BY nombre DESC -- DEFALT DESC
+SELECT * FROM plantilla ORDER BY 3 DESC -- Columna 3
+SELECT * FROM plantilla ORDER BY nombre DESC, salario ASC -- NOMBRE DESCENDENTE, SALARIO ASCENDENTE

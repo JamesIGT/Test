@@ -1,0 +1,1 @@
+UPDATE tb_categorias SET descripcion_ca='VEHICULOS' WHERE codigo_ca=5;

@@ -1,0 +1,1 @@
+DELETE FROM tb_categorias WHERE codigo_ca=2;
